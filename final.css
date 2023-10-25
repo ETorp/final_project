@@ -6,7 +6,11 @@ html {
   
   html{background-color:#0b5394;}
   
-  header{padding:35px;
+  header{
+    margin:auto;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+  padding:35px;
   text-align:center;
   background-color:#0b5394;
   color:#0c3357;
@@ -20,6 +24,7 @@ html {
   .topnav a {
     float: left;
     display: block;
+    font-family:'Courier New', Courier, monospace;
     color: #f2f2f2;
     text-align: center;
     padding: 15px 16px;
